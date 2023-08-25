@@ -32,9 +32,7 @@ export default function Home() {
             }}
           >
             Descubra o <strong>Caminho</strong>
-            <br /> para se
-            <br />
-            Transformar no <strong>Dev Fullstack</strong>
+            <br /> para se transformar no <strong>Dev Fullstack</strong>
             <br />
             que <strong>Todas as Empresas Desejam Contratar!</strong>
           </span>
