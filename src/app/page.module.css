@@ -5,6 +5,15 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background: 
+  linear-gradient(rgba(2,36,52,0.5), rgba(2, 24, 40, 0.946)), /* Exemplo de gradiente de vermelho para verde com opacidade */
+  url('/background.png');
+   
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+
+ 
 }
 
 .description {
