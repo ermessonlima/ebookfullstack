@@ -81,28 +81,9 @@ export default function Home() {
             />
 
           </div>
-          <span
-            style={{
-              fontSize: "1rem",
-              marginBottom: "1rem",
-            }}
-          >
-            <p><strong style={{
-              fontSize: "1.5rem",
-              marginBottom: "1rem",
-            }}>Quer se destacar no mundo da programação e não sabe por onde começar? Nosso e-book é a solução definitiva!</strong></p>
-
-            <ul>
-              <li>Comece entendendo se <strong>você realmente sabe estudar</strong> e descubra métodos que irão potencializar sua capacidade de aprendizado.</li>
-              <li><strong>Concentração e Foco</strong> não são apenas palavras-chave; são os pilares do sucesso e da produtividade. Veja como desenvolvê-los.</li>
-              <li>Entenda a importância do <strong>desenvolvimento de hábitos saudáveis</strong> para sua carreira  e saiba onde encontrar os melhores materiais para aprimorar suas habilidades.</li>
-              <li>Mergulhe na <strong>Lógica de Programação</strong>, um capítulo dedicado a desvendar os principais conceitos, sugerir os melhores cursos e apresentar plataformas gratuitas para prática.</li>
-              <li>Se atualize sobre as <strong>áreas de tecnologia em ascensão</strong> e prepare-se para embarcar na jornada para se tornar um desenvolvedor FullStack.</li>
-            </ul>
 
 
-          </span>
-          <p><em>Este e-book não é apenas um guia, é um investimento para seu futuro profissional. Siga o caminho para o sucesso!</em></p>
+
 
         </div>
 
