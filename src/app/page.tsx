@@ -51,7 +51,7 @@ export default function Home() {
               justifyItems: "center",
               alignItems: "center",
             }}
-            href="https://pay.kirvano.com/6e351937-c8a0-429b-972f-586c0b0e9e13"
+            href="https://pay.kirvano.com/d18f0a8e-52a1-41c4-8c4c-b0a2be6d9ea8"
             target="_blank"
           >
             Adquira seu guia para o Sucesso!
