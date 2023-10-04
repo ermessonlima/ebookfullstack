@@ -56,34 +56,19 @@ export default function Home() {
           >
             Adquira seu guia para o Sucesso!
           </a>
-          <div
-            style={{
-              width: "50%",
-              display: "flex",
-              flexDirection: "column",
-              alignItems: "center",
-              justifyContent: "center",
-              padding: "1rem",
-
-            }}
-          >
-            <Image
-              src="/capa.jpeg"
-              width={300}
-              height={500}
-              alt="Picture of the author"
-              style={{
-                borderRadius: "5px",
-                border: "1px solid #333333",
-                boxShadow: "1px 1px 1px #999",
-
-              }}
-            />
-
-          </div>
 
 
 
+
+
+          <p style={{
+            marginTop: "2rem",
+          }}><em>Este e-book não é apenas um guia, é um investimento para seu futuro profissional. Siga o caminho para o sucesso!</em></p>
+
+        </div>
+        <div style={{
+          width: "50%",
+        }}>
 
         </div>
 
